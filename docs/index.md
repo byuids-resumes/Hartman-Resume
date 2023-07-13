@@ -23,7 +23,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-None
+None 
+<!-- You might want to consider adding more here -->
 
 ## Service and Work History
 
