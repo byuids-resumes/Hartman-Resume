@@ -23,7 +23,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-None 
+No data science related experience
 <!-- You might want to consider adding more here -->
 
 ## Service and Work History
@@ -43,8 +43,6 @@ __Online Advisor__, BYUI
 __Programming Tutor__, BYUI
 
 __IT Project Manager__, BYUI
-
-
 
 <!-- ### Footer
 
